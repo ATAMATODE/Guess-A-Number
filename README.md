@@ -1,1 +1,1 @@
-https://atamatode.github.io/Guess-my-number/
+https://atamatode.github.io/Guess-A-Number/
